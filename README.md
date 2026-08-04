@@ -14,9 +14,21 @@ První veřejné vydání.
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Screenshoty a demo
 
-## 🎬 Demo
+> Následující ukázky zachycují reálný phishingový scénář vydávající se za společnost DHL. Logo a obsah stránky jsou součástí zachyceného příkladu a slouží výhradně k demonstraci fungování rozšíření Site Identity.
+
+### Phishingový e-mail
+
+![Screenshot mail](images/phishing-email-example.jpg)
+
+### Otevření phishingové stránky
+
+![Demo](images/demo-phishing-detection.gif)
+
+### Site Identity zobrazí upozornění
+
+![Screenshot detekce](images/site-identity-warning.png)
 
 ---
 
@@ -25,6 +37,7 @@ První veřejné vydání.
 - Upozorňuje na podezřelé stránky.
 - Pomáhá rozpoznat stránky vydávající se za známé instituce.
 - Upozorňuje na stránky vykazující znaky phishingu.
+- Umožňuje přidat důvěryhodné stránky do vlastního seznamu a kdykoliv je z něj odebrat.
 - Lokální zpracování bez odesílání dat na externí servery.
 
 ---
