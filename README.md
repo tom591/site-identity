@@ -11,6 +11,7 @@ Rozšíření pro Google Chrome, které upozorní na potenciálně nebezpečné 
 ### Verze 0.1.0
 
 První veřejné vydání.
+Aktuální verze se zaměřuje na detekci phishingových stránek vydávajících se za známé instituce a společnosti v České republice.
 
 ---
 
