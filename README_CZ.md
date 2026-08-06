@@ -1,5 +1,7 @@
 # Site Identity
 
+[🇬🇧 English](README.md) | 🇨🇿 Česky
+
 Rozšíření pro Google Chrome, které upozorní na potenciálně nebezpečné stránky, jež mohou vykazovat znaky phishingu nebo se vydávat za známé instituce či společnosti.
 
 > ⚠️ Site Identity upozorňuje na potenciálně rizikové stránky na základě identity webu a dalších detekčních pravidel. Nejedná se o antivirový software ani o záruku, že budou zachyceny všechny phishingové stránky.
