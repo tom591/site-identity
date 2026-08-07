@@ -2,6 +2,8 @@
 
 [🇬🇧 English](README.md) | 🇨🇿 Česky
 
+**[Nainstalovat z Chrome Web Store](https://chromewebstore.google.com/detail/jlnkgpeiammgcjblkjnkpnjlonjhfeog?utm_source=item-share-cb)**
+
 Rozšíření pro Google Chrome, které upozorní na potenciálně nebezpečné stránky, jež mohou vykazovat znaky phishingu nebo se vydávat za známé instituce či společnosti.
 
 > ⚠️ Site Identity upozorňuje na potenciálně rizikové stránky na základě identity webu a dalších detekčních pravidel. Nejedná se o antivirový software ani o záruku, že budou zachyceny všechny phishingové stránky.
