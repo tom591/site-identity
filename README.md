@@ -2,6 +2,8 @@
 
 🇬🇧 English | [🇨🇿 Česky](README_CZ.md)
 
+**[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/jlnkgpeiammgcjblkjnkpnjlonjhfeog?utm_source=item-share-cb)**
+
 A Google Chrome extension that warns users about potentially dangerous websites that may exhibit phishing characteristics or impersonate well-known institutions and companies.
 
 > ⚠️ Site Identity identifies potentially risky websites based on website identity and additional detection rules. It is not antivirus software and does not guarantee detection of every phishing website.
