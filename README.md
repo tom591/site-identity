@@ -12,6 +12,10 @@ A Google Chrome extension that warns users about potentially dangerous websites 
 
 ## 🚧 Project Status
 
+### Version 0.1.1
+
+Optimized detection rules to reduce false positive alerts.
+
 ### Version 0.1.0
 
 First public release.
