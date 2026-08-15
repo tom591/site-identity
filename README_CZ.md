@@ -12,6 +12,10 @@ Rozšíření pro Google Chrome, které upozorní na potenciálně nebezpečné 
 
 ## 🚧 Stav projektu
 
+### Verze 0.1.1
+
+Optimalizována detekční pravidla pro snížení výskytu falešně pozitivních upozornění.
+
 ### Verze 0.1.0
 
 První veřejné vydání.
