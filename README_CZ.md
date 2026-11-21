@@ -61,7 +61,7 @@ Aktuálně optimalizováno pro české instituce a služby.
 
 ## 📝 Licence
 
-[Apache License 2.0](LICENSE)
+[Freeware – Všechna práva vyhrazena](LICENSE)
 
 ---
 
